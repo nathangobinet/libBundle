@@ -6,7 +6,7 @@ This project was created to refer all useful javascript libraries.
 
 ##### Bootstrap : 
 
-- [DEPRECATED] : Use jQuery So not nativelly supported by Bootstrap V5.
+- /!\ Use jQuery So not nativelly supported by Bootstrap V5 /!\
  Bootstrap-Select :
  https://github.com/snapappointments/bootstrap-select/
 
