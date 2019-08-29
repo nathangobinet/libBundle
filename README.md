@@ -6,7 +6,7 @@ This project was created to refer all useful javascript libraries.
 
 ##### Bootstrap : 
 
-- /!\ Use jQuery So not nativelly supported by Bootstrap V5 /!\
+- :heavy_exclamation_mark: *Use jQuery so not nativelly support by bootstrap V*5  :heavy_exclamation_mark: 
  Bootstrap-Select :
  https://github.com/snapappointments/bootstrap-select/
 
