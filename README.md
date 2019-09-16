@@ -72,3 +72,8 @@ https://github.com/pqina/filepond
 
 - Dropzone - Drag'n'drop file-attach uploads with image previews :
 https://github.com/enyo/dropzone/
+
+##### All in one : 
+- Reveal - Create full html presentation :
+https://github.com/hakimel/reveal.js
+
