@@ -55,12 +55,16 @@ https://github.com/gionkunz/chartist-js
 - Circles - Cicles For percentages :
 https://github.com/lugolabs/circles
 
+- Char.js - Simple animated chart :
+https://github.com/chartjs/Chart.js
+
+- D3.js - Vizualize complex data :
+https://github.com/d3/d3
 
 ##### Tables : 
 
 - Ag-grid - Sort, export, search Table :
 https://www.ag-grid.com/
-
 
 - Datatables - Sort, export, search Table (*Use JQuery*) : 
 https://datatables.net/
@@ -70,6 +74,15 @@ https://datatables.net/
 
 - Clipboardjs - Copy to clipboard :
 https://clipboardjs.com/
+
+
+##### Input : 
+
+- Algolia Places - Adress input
+https://github.com/algolia/places
+
+- Cleave js - Format input (Phone number/ Card number)
+https://github.com/nosir/cleave.js
 
 
 ##### Upload : 
