@@ -55,14 +55,21 @@ https://github.com/gionkunz/chartist-js
 - Circles - Cicles For percentages :
 https://github.com/lugolabs/circles
 
-##### Utilities : 
 
-- Clipboardjs - Copy to clipboard :
-https://clipboardjs.com/
+##### Tables : 
+
+- Ag-grid - Sort, export, search Table :
+https://www.ag-grid.com/
 
 
 - Datatables - Sort, export, search Table (*Use JQuery*) : 
 https://datatables.net/
+
+
+##### Utilities : 
+
+- Clipboardjs - Copy to clipboard :
+https://clipboardjs.com/
 
 
 ##### Upload : 
