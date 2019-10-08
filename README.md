@@ -61,6 +61,9 @@ https://github.com/chartjs/Chart.js
 - D3.js - Vizualize complex data :
 https://github.com/d3/d3
 
+- ApexCharts - Animated Interactive Chart :
+https://github.com/apexcharts/apexcharts.js
+
 ##### Tables : 
 
 - Ag-grid - Sort, export, search Table :
